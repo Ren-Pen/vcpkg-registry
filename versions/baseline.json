@@ -1,8 +1,4 @@
 {
   "default": {
-    "slimenano-vfs": {
-      "baseline": "1.0.1",
-      "port-version": 0
-    }
   }
 }
