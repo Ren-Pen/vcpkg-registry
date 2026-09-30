@@ -1,6 +1,7 @@
 {
   "name": "slimenano-vfs",
   "version": "1.0.1",
+  "port-version": 1,
   "description": "This is a free virtual file system",
   "homepage": "https://github.com/Ren-Pen/slimenano-vfs",
   "license": "MIT",
